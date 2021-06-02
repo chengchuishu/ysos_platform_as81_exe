@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<coreframework>
+	<event>
+		<id>31006</id>
+		<name>RegDoServiceEvent</name>
+	</event>
+	<event>
+		<id>31008</id>
+		<name>UnregDoServiceEvent</name>
+	</event>
+	<event>
+		<id>31010</id>
+		<name>IOCtl</name>
+	</event>
+	<event>
+		<id>31016</id>
+		<name>Switch</name>
+	</event>
+	<event>
+		<id>31026</id>
+		<name>Ready</name>
+	</event>
+	<event>
+		<id>40000</id>
+		<name>template_generate_event</name>
+	</event>
+	<event>
+		<id>40001</id>
+		<name>E1_0_event</name>
+	</event>
+	<event>
+		<id>40002</id>
+		<name>E1_1_event</name>
+	</event>
+	<event>
+		<id>40003</id>
+		<name>E1_2_event</name>
+	</event>
+</coreframework>
